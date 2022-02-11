@@ -1,0 +1,16 @@
+{
+  "name": "clipboard-landing-page",
+  "version": "1.0.0",
+  "private": true,
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  },
+  "author": "Mohamed ELIDRISSI",
+  "license": "MIT"
+}

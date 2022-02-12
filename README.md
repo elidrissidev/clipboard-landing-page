@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/elidrissidev/clipboard-landing-page)
+- [Live Site URL](https://clipboard-landing-page-elidrissidev.vercel.app/)
 
 ## My process
 
@@ -45,8 +45,8 @@ Users should be able to:
 ## Author
 
 - Website - [Mohamed ELIDRISSI](https://www.elidrissi.dev)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/elidrissidev)
-- Twitter - [@yourusername](https://www.twitter.com/elidrissidev)
+- Frontend Mentor - [@elidrissidev](https://www.frontendmentor.io/profile/elidrissidev)
+- Twitter - [@elidrissidev](https://www.twitter.com/elidrissidev)
 
 ## License
 
